@@ -1,18 +1,3 @@
-# Data scientist 
+# Data science portfolio by Abdullah Al Minhaj ali
 
-### Education
-BSc
-
-### Experience
-- test
-- test
-
-### Projects
--test
-
-
-
-
-
-
-testing 123
+This portfolio will briefly explain the projects undertaken for data analysis.

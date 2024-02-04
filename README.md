@@ -5,3 +5,9 @@ This portfolio will briefly explain the projects undertaken for data analysis an
 ## Projects undertaken under a University syllabus
 
 ### Predicting depression levels 
+
+
+### Titanic: Who survived?
+
+
+### Body mass index prediction

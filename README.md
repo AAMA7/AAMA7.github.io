@@ -11,4 +11,4 @@ This portfolio will briefly explain the projects undertaken for data analysis an
 
 
 ### Body mass index prediction
-[Github]([https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/Titanic.ipynb](https://github.com/AAMA7/Notebooks/blob/main/Notebooks/Bodymassindex.ipynb)https://github.com/AAMA7/Notebooks/blob/main/Notebooks/Bodymassindex.ipynb)
+[Github](https://github.com/AAMA7/Notebooks/blob/main/Notebooks/Bodymassindex.ipynb)

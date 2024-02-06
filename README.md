@@ -7,7 +7,7 @@ This portfolio will briefly explain the projects undertaken for data analysis an
 ### Predicting depression levels 
 
 
-### Titanic: Who survived?
+### Coronavirus data analysis
 
 
 ### Body mass index prediction

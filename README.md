@@ -5,10 +5,10 @@ This portfolio will briefly explain the projects undertaken for data analysis an
 ## Projects 
 
 ### Predicting depression levels 
-
+Will be added soon...
 
 ### Coronavirus data analysis
-
+Will be added soon... 
 
 ### Body mass index prediction
 The dataset for this problem was downloaded from Kaggle. 

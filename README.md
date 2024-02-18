@@ -8,7 +8,7 @@ This portfolio will briefly explain the projects undertaken for data analysis an
 Will be added soon...
 
 ### Coronavirus data analysis
-Will be added soon... 
+[Github](https://github.com/AAMA7/Notebooks/blob/main/Notebooks/Covid_analysis.ipynb)
 
 ### Body mass index prediction
 The dataset for this problem was downloaded from Kaggle. 

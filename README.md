@@ -8,7 +8,7 @@ This portfolio will briefly explain the projects undertaken for data analysis an
 Will be added soon...
 
 ### Coronavirus data analysis
-In this mini-project, we look at a small dataset based on global cases of covid. We attempted to prepare, explore and model the data. In the end, some conclusions were drawn in terms of the quality of the datasets and relationships found.
+In this mini-project, we look at a small dataset based on global cases of covid. We attempted to prepare, explore and model the data. In the end, some conclusions were drawn about the quality of the data and the relationships within it.
 [Github](https://github.com/AAMA7/Notebooks/blob/main/Notebooks/Covid_analysis.ipynb)
 
 ### Body mass index prediction

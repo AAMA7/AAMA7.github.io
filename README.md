@@ -5,7 +5,7 @@ This portfolio will briefly explain the projects undertaken for data analysis an
 ## Projects 
 
 ### Predicting depression levels 
-This project was completed in my final year of undergrad at UEL. The dataset for this project was downloaded from Kaggle. This is a classfication problem to understand the level of depression of participants based on their answers to questions about different mental health types like schizophrenia, PTSD etc.  As well as building the models and refining upon them, exploratory data analysis was also performed. [Github](https://github.com/AAMA7/Notebooks/blob/main/Notebooks/depression_predictor.ipynb) [nbviewer](later)
+This project was completed in my final year of undergrad at UEL. The dataset for this project was downloaded from Kaggle. This is a classfication problem to understand the level of depression of participants based on their answers to questions about different mental health types like schizophrenia, PTSD etc.  As well as building the models and refining upon them, exploratory data analysis was also performed. [Github](https://github.com/AAMA7/Notebooks/blob/main/Notebooks/depression_predictor.ipynb) 
 
 
 ### Body mass index prediction
